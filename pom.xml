@@ -55,6 +55,13 @@
             <scope>provided</scope>
         </dependency>
         <dependency>
+            <groupId>org.bukkit</groupId>
+            <artifactId>nms</artifactId>
+            <version>1</version>
+            <systemPath>${user.home}/Desktop/Java Projects/resources/spigot-1.8.8.jar</systemPath>
+            <scope>system</scope>
+        </dependency>
+        <dependency>
             <groupId>com.github.kangarko</groupId>
             <artifactId>Foundation</artifactId>
             <version>${foundation.version}</version>

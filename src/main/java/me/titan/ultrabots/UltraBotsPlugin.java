@@ -7,5 +7,6 @@ public class UltraBotsPlugin extends SimplePlugin {
 	protected void onPluginStart() {
 
 
+
 	}
 }
